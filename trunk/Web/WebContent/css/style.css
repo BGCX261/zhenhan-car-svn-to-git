@@ -1,0 +1,12 @@
+@charset "windows-1251";
+a{text-decoration:none;}
+a:hover{text-decoration:underline;}
+body{margin: 0 auto; width: 770px;}
+div,td{font-family: Tahoma; font-size: 11px; color: #28333A;}
+.t11{font-family: Tahoma; font-size: 11px; color: #28333A;}
+form{margin: 0px}
+.t10{font-family: Tahoma; font-size: 10px; color: #28333A;}
+.t10r{font-family: Tahoma; font-size: 10px; color: #FF0000;}
+
+.inp1{height: 19px; width: 179px; font-family: Arial; font-size: 10px; color: #28333A; border: #D4D4D4 1px solid;}
+
